@@ -44,5 +44,6 @@ They want the highest quality pages to show up for the keyword searched.
 ## keyWords
 
 - keywords are the backbone of the SEO
-- 
+![IMG_0100](https://github.com/iamtanmay07/SEO-key-points/assets/96469706/91dd90a2-3c56-405e-b9e9-488a9cf283d9)
+
 
